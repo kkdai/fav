@@ -1,4 +1,4 @@
-package models
+package fav
 
 type UserFavorite struct {
 	Id        int64    `bson:"_id"`

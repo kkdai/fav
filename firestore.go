@@ -1,4 +1,4 @@
-package models
+package fav
 
 import (
 	"context"
